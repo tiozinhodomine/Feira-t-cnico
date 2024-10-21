@@ -12,7 +12,7 @@ Tecnologia, arquitetura e engenharia.
 👥 Integrantes:
 Leonardo dos Santos Vilella | git.hub = "https://github.com/tiozinhodomine" | contato = "leonardovilella2009@gmail.com"
 
-Giullia Gomes Moura | git.hub = ""  | contato = "giulliagomesmoura@gmail.com" 
+Giullia Gomes Moura | git.hub = "https://github.com/giuu2607"  | contato = "giulliagomesmoura@gmail.com" 
 
 ✨ Descrição Resumida do Projeto:
 Um site que permite o controle simulado de dispositivos domésticos, como iluminação, câmeras de segurança e temperatura. O projeto foca na centralização desses controles para oferecer uma experiência prática e educativa sobre automação residencial e casas inteligentes.

@@ -47,7 +47,7 @@ Feira: 30/11 | Data da Feira do Técnico
 📸 Fotos e Prints do percurso e etapas do projeto:
 Planta baixa inicial da casa  ![image](https://github.com/user-attachments/assets/04ebce7e-1afb-4c33-893b-22cdbd10ceaa)
 Print do protótipo inicial do código html base (ajustando)  ![image](https://github.com/user-attachments/assets/35f73b48-7422-4e49-a66c-80b2b56f3b8b)
-Print do protótipo inicial do controle da casa (ajustando  ![image](https://github.com/user-attachments/assets/36dd6021-2d5d-4015-a47f-bd4201804017)
+Print do protótipo inicial do controle da casa (ajustando)  ![image](https://github.com/user-attachments/assets/36dd6021-2d5d-4015-a47f-bd4201804017)
 
 ✅ Conclusão:
 Este projeto [Site de Automação Residencial Simples Simulada], demonstra como a automação residencial pode ser útil, oferecendo controle centralizado de dispositivos e promovendo eficiência energética e segurança. A interface criada permite ao usuário explorar, de forma simulada, o futuro das casas inteligentes. Através dessa experiência, o projeto comprova o impacto positivo da automação no cotidiano.

@@ -11,6 +11,7 @@ Tecnologia, arquitetura e engenharia.
 
 👥 Integrantes:
 Leonardo dos Santos Vilella | git.hub = "https://github.com/tiozinhodomine" | contato = "leonardovilella2009@gmail.com"
+
 Giullia Gomes Moura | git.hub = ""  | contato = "giulliagomesmoura@gmail.com" 
 
 ✨ Descrição Resumida do Projeto:

@@ -42,7 +42,7 @@ Início do Projeto: 03/10 | Ínicio da concepção do projeto.
 Fase 1: | Desenvolvimento do protótipo. 
 Fase 2: | Implementação das principais funcionalidades.
 Finalização: sem data definida - | Ajustes finais e testes.
-Feira: 30/11 | Data da Feira do Técnico
+Feira: 29/11 | Data da Feira do Técnico
 
 📸 Fotos e Prints do percurso e etapas do projeto:
 Planta baixa inicial da casa  ![image](https://github.com/user-attachments/assets/04ebce7e-1afb-4c33-893b-22cdbd10ceaa)
